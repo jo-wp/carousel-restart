@@ -1,6 +1,6 @@
 # carousel-restart
 <p>Plugin Wordpress, Carousel by Click <br>
-A Simple Carousel by click. No effect or automatic slide for the first commit.</p>
+A Simple Carousel by click. No effect or automatic slide for the first commit. It responsive design.</p>
 ### Description #
 <p>You can choose POSTS or PAGES. For POSTS choose category or all.</p>
 ### Install #
