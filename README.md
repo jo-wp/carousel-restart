@@ -7,4 +7,4 @@ A Simple Carousel by click. No effect or automatic slide for the first commit.</
 <p>How to use ? <br>
 Page : [carousel-restart]<br>
 Post : [carousel-restart]<br>
-In Template : `<?php echo do_shortcode('[carousel-restart]'); ?>`</p>
+In Template : <code><?php echo do_shortcode('[carousel-restart]'); ?></code></p>
