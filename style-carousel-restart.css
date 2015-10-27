@@ -1,0 +1,66 @@
+.carousel-restart{
+    margin-right: -15px;
+    margin-left: -15px;
+    display: inline-block;
+    width: 100%;
+}
+.carousel-restart .title,.carousel-restart .navigation{
+    width:50%;
+    float:left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+.carousel-restart .title h2{
+    margin-bottom: 17px;
+}
+.carousel-restart .navigation{
+    text-align: right;
+}
+.carousel-restart .navigation a {
+    display:block;
+}
+.carousel-restart .navigation a .fa{
+    font-size:24px;
+}
+.items-carousel-restart{
+    list-style: none;
+    width:100%;
+    float:left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.item-carousel-restart{
+    float:left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.icr-col-2{
+    width:50%;
+}
+.icr-col-4{
+    width:25%;
+}
+.icr-col-6{
+    width:16.6%;
+}
+.icr-col-8{
+    width:12.5%
+}
+.icr-col-10{
+    width:10%
+}
+.navigation .prev-agenda img,.navigation .next-agenda img{
+    float:right;
+    max-height: 25px;
+}
